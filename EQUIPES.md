@@ -1,6 +1,6 @@
 # Equipes
 
-Lista dos alunos e duplas, montada a partir dos forks (atualizada em 19/11/2026, 17h40). O trabalho pode ser **individual ou em dupla**. Cada um preenche a tabela Equipe no README **do próprio fork**. Na dupla, só **um integrante** faz o fork; o outro entra como colaborador.
+Lista dos alunos e duplas, montada a partir dos forks (atualizada em 22/11/2026, 07h40). O trabalho pode ser **individual ou em dupla**. Cada um preenche a tabela Equipe no README **do próprio fork**. Na dupla, só **um integrante** faz o fork; o outro entra como colaborador.
 
 | Formato / dupla | Integrantes (usuário do GitHub) | Fork | Situação |
 | --- | --- | --- | --- |
@@ -10,3 +10,4 @@ Lista dos alunos e duplas, montada a partir dos forks (atualizada em 19/11/2026,
 | Os Pimposos (dupla) | Giovane Lucas Fonseca Dias (giovanefonseca, 2418010), Francisco Kenison da Silva Monteiro (okenison, 2415681) | [giovanefonseca/bd-integracao-dados-ads242n01](https://github.com/giovanefonseca/bd-integracao-dados-ads242n01) | Tabela preenchida; sem Pull Request |
 | LITLLEBIG AND CRY CRY CRY (dupla) | Igor S. Gomes (igorsimoesgomes0-alt, 2420443), Ricardo Oliveira de Almeida (Ricardooliv20, 2384915) | [igorsimoesgomes0-alt/-](https://github.com/igorsimoesgomes0-alt/-) | Tabela preenchida só no branch `patch-1` (não no `main`); ⚠️ usuário informado "Iguinho" não é o dono do fork; fork renomeado para "-"; sem Pull Request |
 | Individual | João Gustavo Gonçalves Vasconcelos (SukitaAM, 2408298) | [SukitaAM/bd-integracao-dados-ads242n01-Joao-Gustavo](https://github.com/SukitaAM/bd-integracao-dados-ads242n01-Joao-Gustavo) | Pull Request #3 aberto em 19/11, com todas as partes; ⚠️ só 2 commits de trabalho (o individual pede pelo menos 5) |
+| GreenSync (dupla) | André Rhodis dos Santos (andrerhodis, 2422804), Dhyon Kennedy Dias dos Santos (dhyonkennedy, 2401151) | [andrerhodis/bd-integracao-dados-ads242n01](https://github.com/andrerhodis/bd-integracao-dados-ads242n01) | Fork criado em 21/11; tabela preenchida; Parte 1 no `main` do fork (DDL PostgreSQL/MySQL, carga, script corrigido e `parte1_importacao.md`, 5 commits do André); sem Pull Request; ⚠️ Dhyon ainda sem commits |
